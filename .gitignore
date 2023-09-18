@@ -1,0 +1,14 @@
+# Exclude build artifacts
+build/
+dist/
+
+# Exclude environment-specific files
+.env
+.env.local
+
+# Exclude IDE and editor-specific files
+.idea/
+.vscode/
+
+# Exclude node_modules for Node.js projects
+node_modules/
