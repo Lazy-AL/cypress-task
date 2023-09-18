@@ -1,4 +1,4 @@
-describe("template spec", () => {
+describe("CounterAPP tests", () => {
   it("should increment the counter when the increment button is clicked", () => {
     cy.visit("http://localhost:3000/");
 
