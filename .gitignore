@@ -11,4 +11,4 @@ dist/
 .vscode/
 
 # Exclude node_modules for Node.js projects
-node_modules/
+node_modules
